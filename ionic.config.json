@@ -1,0 +1,7 @@
+{
+  "name": "InntegraCoopedacApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
